@@ -1,0 +1,5 @@
+bdc814c5d6913eed5be8766a2c2c77a108f27601fcc398aa5206c118fbc6ade8  beBetter-0.1.2-arm64.dmg
+1cddfd3c659d65823831b33fb054978cb58e6a5681606418002d1496dfcac656  beBetter-0.1.2-arm64-mac.zip
+34ebf12c544af3e0ffbc15657b0452ce0b3ebbc5b235eac0bb2f0b7d6107cbd6  latest-mac.yml
+feed6497eabd3b5ab0aea27182ac2499bbaa64cfc88cb8d23c60b697fdfa053a  beBetter-0.1.2-arm64-mac.zip.blockmap
+88fb0b726264e135050e181346a471f24f14d0b6a6b6443f379fe36d3ba8cbb8  beBetter-0.1.2-arm64.dmg.blockmap

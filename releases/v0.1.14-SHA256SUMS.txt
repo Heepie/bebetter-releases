@@ -1,0 +1,8 @@
+38d697159dc838f5193cd9e039b81c61f97c1e64297d20eabb5e4d7a70149f14  release/beBetter-0.1.14-arm64.dmg
+4992020e4b23ba810963eb23e39de5c1fd31809bac2bde9d2f8ef9677423a0ba  release/beBetter-0.1.14-arm64-mac.zip
+6b430fa6b842cc8d176f3fdd4c58622814ab4c188712153bec81f453fcad0e55  release/latest-mac.yml
+7bed826cfb7a5342c1fc4b2083950d14593c69f0a93d7031f7bde2b377bde3ea  release/beBetter-Setup-0.1.14.exe
+b0a4f59856a8638bddd8a2d046a3c609e84c9f38d953510f5c5360b7bfeb4296  release/latest.yml
+fe588ac278954b66d2bd5f1787ecd2ac898b3b52eec3b929461b9f3f492eccf6  release/beBetter-0.1.14-arm64-mac.zip.blockmap
+01713cd3440e1924bcbfdd66d86f8cb1ca4ec04de28b0fad8b1a958746ad4433  release/beBetter-0.1.14-arm64.dmg.blockmap
+35d2a53f135e62233def0b6618049a672f2ce1ca9ac1939685eb95dfdc6776f9  release/beBetter-Setup-0.1.14.exe.blockmap
